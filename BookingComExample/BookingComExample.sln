@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B56D6953-F88
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingComExample.Domain", "src\BookingComExample.Domain\BookingComExample.Domain.csproj", "{B3443EBE-56D8-4DC3-8933-145BFFA8F848}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C6AAF703-0897-4795-97D5-3FE594A6EFD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,7 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B3443EBE-56D8-4DC3-8933-145BFFA8F848} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
+		{C6AAF703-0897-4795-97D5-3FE594A6EFD8} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DCF5B5B-6FA4-4611-9265-7887D0293C13}

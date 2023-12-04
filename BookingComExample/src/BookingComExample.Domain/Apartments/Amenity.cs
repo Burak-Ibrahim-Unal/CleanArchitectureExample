@@ -18,6 +18,5 @@ namespace BookingComExample.Domain.Apartments
         Terrace = 8,
         MountainView = 9,
         GardenView = 10
-
     }
 }
