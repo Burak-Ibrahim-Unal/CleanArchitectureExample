@@ -1,0 +1,11 @@
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\bin\Debug\net6.0\BookingComExample.Domain.deps.json
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\bin\Debug\net6.0\BookingComExample.Domain.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\bin\Debug\net6.0\BookingComExample.Domain.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\refint\BookingComExample.Domain.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\BookingComExample.Domain.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\src\BookingComExample.Domain\obj\Debug\net6.0\ref\BookingComExample.Domain.dll
