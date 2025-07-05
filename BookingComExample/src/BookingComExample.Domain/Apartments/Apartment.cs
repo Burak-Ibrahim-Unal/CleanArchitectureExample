@@ -9,19 +9,15 @@ namespace BookingComExample.Domain.Apartments
 {
     public sealed class Apartment : Entity
     {
-        public string Name  { get; set; }
-        public string Desrciption  { get; set; }
-        public string Country  { get; set; }
-        public string State { get; set; }
-        public string ZipCode { get; set; }
-        public string City { get; set; }
-        public string Street { get; set; }
-        public decimal PriceAmount { get; set; }
-        public string PriceCurrency { get; set; }  
-        public decimal CleaningFeeAmount { get; set; }
-        public string CleaningFeeCurrency { get; set; }
-        public DateTime? LastBookedOnUtc { get; set; }
-        public List<Amenity> Amenities { get; set; }
+        public Name Name  { get; private set; }
+        public Desrciption Desrciption  { get; private set; }
+        public Address Address { get; private set; }
+        public decimal PriceAmount { get; private set; }
+        public string PriceCurrency { get; private set; }  
+        public decimal CleaningFeeAmount { get; private set; }
+        public string CleaningFeeCurrency { get; private set; }
+        public DateTime? LastBookedOnUtc { get; private set; }
+        public List<Amenity> Amenities { get; private set; }
 
         public Apartment(Guid id) 
             : base(id)
