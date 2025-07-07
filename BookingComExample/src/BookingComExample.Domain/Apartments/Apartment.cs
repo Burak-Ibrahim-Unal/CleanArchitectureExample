@@ -9,9 +9,22 @@ namespace BookingComExample.Domain.Apartments
 {
     public sealed class Apartment : Entity
     {
-        public Apartment(Guid id) : base(id)
+        public Apartment(
+            Guid id,
+            Name name,
+            Desrciption desrciption,
+            Address address,
+            Money price,
+            Money cleaningFee,
+            List<Amenity> amenities
+            ) : base(id)
         {
-
+            Name = name;
+            Desrciption = desrciption;
+            Address = address;
+            Price = price;
+            CleaningFee = cleaningFee;
+            Amenities = amenities;
         }
 
         public Name Name { get; private set; }
