@@ -17,7 +17,6 @@ public sealed class Booking : Entity
         BookingStatus status,
         DateTime createdOnUtc) : base(id)
     {
-        
     }
 
     public Guid ApartmentId { get; private set; }
@@ -30,24 +29,30 @@ public sealed class Booking : Entity
     public BookingStatus Status { get; private set; }
     public DateTime CreatedOnUtc { get; private set; }
 
-    public static Booking Reserve(Guid apartmentId,
+    public static Booking Reserve(
+        Apartment apartment,
         Guid userId,
         DateRange duration,
         DateTime createdOnUtc,
-        PricingDetails pricingDetails)
+        PricingService pricingService)
     {
+        var pricingDetails = pricingService.CalculatePrice(apartment,duration);
+
         var booking = new Booking(Guid.NewGuid(),
-            apartmentId,
+            apartment.Id,
             userId,
             duration,
             pricingDetails.PriceForPeriod,
             pricingDetails.CleaningFee,
             pricingDetails.TotalPrice,
             BookingStatus.Reserved,
-            createdOnUtc);;
-        
-        booking.RaiseDomainEvent(new BookingReservationDomainEvent(booking.Id));;
-        
+            createdOnUtc);
+        ;
+
+        booking.RaiseDomainEvent(new BookingReservationDomainEvent(booking.Id));
+        ;
+        apartment.LastBookedOnUtc = createdOnUtc;
+
         return booking;
     }
 }

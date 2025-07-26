@@ -32,7 +32,7 @@ namespace BookingComExample.Domain.Apartments
         public Address Address { get; private set; }
         public Money Price { get; set; }
         public Money CleaningFee { get; set; }
-        public DateTime? LastBookedOnUtc { get; private set; }
+        public DateTime? LastBookedOnUtc { get; internal set; }
         public List<Amenity> Amenities { get; private set; }
     }
 }
