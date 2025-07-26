@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BookingComExample.Domain.Users.Events;
 
 namespace BookingComExample.Domain.Users
 {
@@ -23,6 +24,8 @@ namespace BookingComExample.Domain.Users
         public static User Create(FirstName firstName, LastName lastName, Email email)
         {
             var newUser = new User(Guid.NewGuid(), firstName, lastName, email);
+            newUser.RaiseDomainEvent(new UserCreatedDomainEvent(newUser.Id));
+            
             return newUser;
         }
     }
