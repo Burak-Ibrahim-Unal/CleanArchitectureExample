@@ -88,7 +88,7 @@ public sealed class Booking : Entity
     
     public Result Complete(DateTime utcNow)
     {
-        if (Status != BookingStatus.Reserved)
+        if (Status != BookingStatus.Confirmed)
         {
             return Result.Failure(BookingErrors.NotConfirmed);
         }
@@ -103,7 +103,7 @@ public sealed class Booking : Entity
     
     public Result Cancel(DateTime utcNow)
     {
-        if (Status != BookingStatus.Reserved)
+        if (Status != BookingStatus.Confirmed)
         {
             return Result.Failure(BookingErrors.NotConfirmed);
         }
