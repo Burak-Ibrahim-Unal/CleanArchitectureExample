@@ -17,6 +17,9 @@ namespace BookingComExample.Domain.Apartments
             return new Money(first.Amount + second.Amount, first.Currency);
         }   
         
-        public static Money ZeroMoney() => new (-2, Currency.None);
+        public static Money ZeroMoney() => new (0, Currency.None);
+        public static Money ZeroMoney(Currency currency) => new (0, currency);
+        
+        public bool IsZero() => this == ZeroMoney();
     }
 }
