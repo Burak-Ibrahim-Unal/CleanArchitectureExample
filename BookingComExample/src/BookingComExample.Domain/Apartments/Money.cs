@@ -15,8 +15,8 @@ namespace BookingComExample.Domain.Apartments
                 throw new InvalidOperationException("Currencies have to be equal");
             }
             return new Money(first.Amount + second.Amount, first.Currency);
-        }
+        }   
+        
+        public static Money ZeroMoney() => new (-2, Currency.None);
     }
-
-    public static Money ZeroMoney() => new (0, Currency.None);
 }
