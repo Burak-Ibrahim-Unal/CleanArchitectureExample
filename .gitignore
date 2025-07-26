@@ -32,3 +32,4 @@ BookingComExample/src/BookingComExample.Domain/obj/rider.project.restore.info
 BookingComExample/src/BookingComExample.Domain/obj/Debug/net6.0/BookingComExample.Domain.AssemblyInfoInputs.cache
 BookingComExample/src/BookingComExample.Domain/obj/Debug/net6.0/BookingComExample.Domain.AssemblyInfoInputs.cache
 BookingComExample/src/BookingComExample.Domain/obj/Debug/net6.0/BookingComExample.Domain.AssemblyInfo.cs
+*.cache
