@@ -1,6 +1,8 @@
-﻿namespace BookingComExample.Domain.Apartments;
+﻿using BookingComExample.Domain.Bookings;
+
+namespace BookingComExample.Domain.Apartments;
 
 public interface IBookingRepository
 {
-    Task<Apartment> GetByIdAsync(Guid id,CancellationToken cancellationToken = default);
+    Task<Booking> GetByIdAsync(Guid id,CancellationToken cancellationToken = default);
 }

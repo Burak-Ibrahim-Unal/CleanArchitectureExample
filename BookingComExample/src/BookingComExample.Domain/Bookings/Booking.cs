@@ -49,7 +49,7 @@ public sealed class Booking : Entity
             createdOnUtc);
         ;
 
-        booking.RaiseDomainEvent(new BookingReservationDomainEvent(booking.Id));
+        booking.RaiseDomainEvent(new BookingReservedDomainEvent(booking.Id));
         ;
         apartment.LastBookedOnUtc = createdOnUtc;
 
@@ -66,7 +66,7 @@ public sealed class Booking : Entity
         Status = BookingStatus.Confirmed;
         ConfirmedOnUtc = utcNow;
 
-        RaiseDomainEvent(new BookingReservationDomainEvent(Id));
+        RaiseDomainEvent(new BookingReservedDomainEvent(Id));
 
         return Result.Success();
     }
@@ -81,7 +81,7 @@ public sealed class Booking : Entity
         Status = BookingStatus.Rejected;
         ConfirmedOnUtc = utcNow;
         
-        RaiseDomainEvent(new BookingReservationDomainEvent(Id));
+        RaiseDomainEvent(new BookingReservedDomainEvent(Id));
 
         return Result.Success();
     }
@@ -96,7 +96,7 @@ public sealed class Booking : Entity
         Status = BookingStatus.Completed;
         ConfirmedOnUtc = utcNow;
         
-        RaiseDomainEvent(new BookingReservationDomainEvent(Id));
+        RaiseDomainEvent(new BookingReservedDomainEvent(Id));
 
         return Result.Success();
     }
@@ -118,7 +118,7 @@ public sealed class Booking : Entity
         Status = BookingStatus.Cancelled;
         ConfirmedOnUtc = utcNow;
         
-        RaiseDomainEvent(new BookingReservationDomainEvent(Id));
+        RaiseDomainEvent(new BookingReservedDomainEvent(Id));
 
         return Result.Success();
     }

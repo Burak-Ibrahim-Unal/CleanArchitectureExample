@@ -14,4 +14,8 @@
       <ProjectReference Include="..\src\BookingComExample.Domain\BookingComExample.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Bookings\GetBooking\" />
+    </ItemGroup>
+
 </Project>
