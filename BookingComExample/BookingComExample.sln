@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingComExample.Applicati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingComExample.Infrastructure", "BookingComExample.Infrastructure\BookingComExample.Infrastructure.csproj", "{B3867E0E-8B78-4283-B527-E27FCF5CCD18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingComExample.Api", "BookingComExample.Api\BookingComExample.Api.csproj", "{AA6C1E53-16DE-4C27-9018-FD1793507C48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{B3867E0E-8B78-4283-B527-E27FCF5CCD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3867E0E-8B78-4283-B527-E27FCF5CCD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3867E0E-8B78-4283-B527-E27FCF5CCD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6C1E53-16DE-4C27-9018-FD1793507C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6C1E53-16DE-4C27-9018-FD1793507C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6C1E53-16DE-4C27-9018-FD1793507C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6C1E53-16DE-4C27-9018-FD1793507C48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,6 +46,7 @@ Global
 		{C6AAF703-0897-4795-97D5-3FE594A6EFD8} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
 		{EA717618-6C1B-4509-A614-6E641BBE63DE} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
 		{B3867E0E-8B78-4283-B527-E27FCF5CCD18} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
+		{AA6C1E53-16DE-4C27-9018-FD1793507C48} = {B56D6953-F88B-496A-A7FE-EB3B8F45E031}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3DCF5B5B-6FA4-4611-9265-7887D0293C13}

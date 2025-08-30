@@ -1,0 +1,6 @@
+@BookingComExample.Api_HostAddress = http://localhost:5127
+
+GET {{BookingComExample.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

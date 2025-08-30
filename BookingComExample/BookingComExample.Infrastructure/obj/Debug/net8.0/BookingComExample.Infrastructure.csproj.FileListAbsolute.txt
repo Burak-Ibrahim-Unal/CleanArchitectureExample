@@ -1,9 +1,3 @@
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.AssemblyInfo.cs
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.sourcelink.json
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Infrastructure.deps.json
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Infrastructure.dll
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Infrastructure.pdb
@@ -11,6 +5,12 @@ C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\Booking
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Domain.dll
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Application.pdb
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\bin\Debug\net8.0\BookingComExample.Domain.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.sourcelink.json
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingC.68DAFBC8.Up2Date
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\BookingComExample.Infrastructure.dll
 C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Infrastructure\obj\Debug\net8.0\refint\BookingComExample.Infrastructure.dll
