@@ -1,0 +1,16 @@
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\bin\Debug\net8.0\BookingComExample.Application.deps.json
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\bin\Debug\net8.0\BookingComExample.Application.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\bin\Debug\net8.0\BookingComExample.Application.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\bin\Debug\net8.0\BookingComExample.Domain.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\bin\Debug\net8.0\BookingComExample.Domain.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.AssemblyInfo.cs
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.sourcelink.json
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingC.66566665.Up2Date
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\refint\BookingComExample.Application.dll
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\BookingComExample.Application.pdb
+C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Application\obj\Debug\net8.0\ref\BookingComExample.Application.dll

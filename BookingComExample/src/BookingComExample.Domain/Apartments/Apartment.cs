@@ -1,5 +1,6 @@
 ﻿using BookingComExample.Domain.Abstractions;
 using System;
+using BookingComExample.Domain.Shared;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,7 +13,7 @@ namespace BookingComExample.Domain.Apartments
         public Apartment(
             Guid id,
             Name name,
-            Desrciption desrciption,
+            Description description,
             Address address,
             Money price,
             Money cleaningFee,
@@ -20,7 +21,7 @@ namespace BookingComExample.Domain.Apartments
             ) : base(id)
         {
             Name = name;
-            Desrciption = desrciption;
+            Description = description;
             Address = address;
             Price = price;
             CleaningFee = cleaningFee;
@@ -28,7 +29,7 @@ namespace BookingComExample.Domain.Apartments
         }
 
         public Name Name { get; private set; }
-        public Desrciption Desrciption { get; private set; }
+        public Description Description { get; private set; }
         public Address Address { get; private set; }
         public Money Price { get; set; }
         public Money CleaningFee { get; set; }

@@ -2,4 +2,4 @@
 
 namespace BookingComExample.Domain.Bookings.Events;
 
-public sealed record BookingReservedDomainEvent(Guid BookingId) : IDomanEvent;
+public sealed record BookingReservedDomainEvent(Guid BookingId) : IDomainEvent;

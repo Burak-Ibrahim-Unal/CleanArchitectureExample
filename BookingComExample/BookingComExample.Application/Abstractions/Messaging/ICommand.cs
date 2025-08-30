@@ -3,14 +3,14 @@ using MediatR;
 
 namespace BookingComExample.Application.Abstractions.Messaging;
 
-public interface ICommand : IRequest<Result>, BaseCommand
+public interface ICommand : IRequest<Result>, IBaseCommand
 {
 }
 
-public interface ICommand<TResponse> : IRequest<Result<TResponse>>, BaseCommand
+public interface ICommand<TResponse> : IRequest<Result<TResponse>>, IBaseCommand
 {
 }
 
-public interface BaseCommand
+public interface IBaseCommand
 {
 }

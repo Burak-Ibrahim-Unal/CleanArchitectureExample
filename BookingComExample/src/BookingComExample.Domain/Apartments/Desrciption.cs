@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace BookingComExample.Domain.Apartments
 {
-    public record Desrciption(string Value);
+    public record Description(string Value);
 }

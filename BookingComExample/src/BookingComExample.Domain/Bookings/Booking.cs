@@ -1,5 +1,6 @@
 ﻿using BookingComExample.Domain.Abstractions;
 using BookingComExample.Domain.Apartments;
+using BookingComExample.Domain.Shared;
 using BookingComExample.Domain.Bookings.Events;
 
 namespace BookingComExample.Domain.Bookings;

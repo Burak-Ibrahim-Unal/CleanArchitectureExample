@@ -3,36 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\configurations\\apartmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\configurations\\apartmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\abstractions\\idomanevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\abstractions\\idomanevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\desrciption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\desrciption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\clock\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\clock\\datetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\exceptions\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\reviews\\events\\reviewcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\reviews\\events\\reviewcreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\reviews\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\reviews\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.infrastructure\\repositories\\apartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3867E0E-8B78-4283-B527-E27FCF5CCD18}|BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj|solutionrelative:bookingcomexample.infrastructure\\repositories\\apartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\bookings\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\bookings\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\bookings\\reservebooking\\reservebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\bookings\\reservebooking\\reservebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\aparments\\searchapartments\\searchapartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\aparments\\searchapartments\\searchapartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\data\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\data\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\bookings\\reservebooking\\reservebookingcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\bookings\\reservebooking\\reservebookingcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\behaviors\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\behaviors\\validationerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\bookingcomexample.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA717618-6C1B-4509-A614-6E641BBE63DE}|BookingComExample.Application\\BookingComExample.Application.csproj|solutionrelative:bookingcomexample.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\apartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\apartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|c:\\users\\burak\\desktop\\github\\cleanarchitectureexample\\bookingcomexample\\src\\bookingcomexample.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3443EBE-56D8-4DC3-8933-145BFFA8F848}|src\\BookingComExample.Domain\\BookingComExample.Domain.csproj|solutionrelative:src\\bookingcomexample.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,97 +130,388 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDatetimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Clock\\IDatetimeProvider.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Clock\\IDatetimeProvider.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Clock\\IDatetimeProvider.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Clock\\IDatetimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:05:32.235Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Exceptions\\ValidationError.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Exceptions\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Exceptions\\ValidationError.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Exceptions\\ValidationError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:03:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDomanEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Abstractions\\IDomanEvent.cs",
+              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Abstractions\\IDomanEvent.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Abstractions\\IDomanEvent.cs",
+              "RelativeToolTip": "src\\BookingComExample.Domain\\Abstractions\\IDomanEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:02:11.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewCreatedDomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "RelativeToolTip": "src\\BookingComExample.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:01:40.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Money.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Money.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Money.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Money.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Money.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAYAAAAAAAAAA==",
+              "Title": "BookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\BookingConfiguration.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Configurations\\BookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\BookingConfiguration.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\BookingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:51:45.429Z",
+              "WhenOpened": "2025-08-30T18:56:51.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Currency.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Currency.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Currency.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Currency.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABXAAAAAAAAAA==",
+              "Title": "ApartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\ApartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Configurations\\ApartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\ApartmentConfiguration.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\ApartmentConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:38:10.057Z",
+              "WhenOpened": "2025-08-30T18:56:09.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Clock\\DateTimeProvider.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Clock\\DateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Clock\\DateTimeProvider.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Clock\\DateTimeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:08.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Desrciption.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Desrciption.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Desrciption.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Desrciption.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Desrciption.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:36:48.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Name.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Name.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Name.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Name.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Name.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:36:14.409Z",
+              "WhenOpened": "2025-08-30T18:54:57.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Address.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Address.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Address.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
+              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
+              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T14:32:48.782Z",
+              "WhenOpened": "2023-12-04T08:46:42.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Abstractions\\Entity.cs",
               "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Abstractions\\Entity.cs",
               "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Abstractions\\Entity.cs",
               "RelativeToolTip": "src\\BookingComExample.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-04T09:05:56.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:00:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Reviews\\Comment.cs",
+              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Reviews\\Comment.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Reviews\\Comment.cs",
+              "RelativeToolTip": "src\\BookingComExample.Domain\\Reviews\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T19:01:01.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:18.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\ApartmentRepository.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Infrastructure\\Repositories\\ApartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\Repositories\\ApartmentRepository.cs",
+              "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\ApartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:55:12.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Bookings\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Bookings\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Bookings\\IBookingRepository.cs",
+              "RelativeToolTip": "src\\BookingComExample.Domain\\Bookings\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:45:02.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReserveBookingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:44:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:42:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchApartmentsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Aparments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Aparments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Aparments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Aparments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:39:18.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReserveBookingCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandValidator.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandValidator.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:33:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:29:19.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ValidationError.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\ValidationError.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationError.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\ValidationError.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:26:28.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:18:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:17:37.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "BookingComExample.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:14:12.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:09:15.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "BookingComExample.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T18:08:18.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "Amenity.cs",
               "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Amenity.cs",
               "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Amenity.cs",
@@ -144,17 +523,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Apartment.cs",
-              "DocumentMoniker": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
-              "RelativeDocumentMoniker": "src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
-              "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
-              "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T08:46:42.169Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

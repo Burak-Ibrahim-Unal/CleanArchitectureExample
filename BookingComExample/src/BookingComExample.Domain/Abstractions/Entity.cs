@@ -9,7 +9,7 @@ namespace BookingComExample.Domain.Abstractions
    
     public abstract class Entity
     { 
-        private readonly List<IDomanEvent> _domainEvents = new();
+        private readonly List<IDomainEvent> _domainEvents = new();
         
         public Guid Id { get; init; }
 
@@ -18,7 +18,7 @@ namespace BookingComExample.Domain.Abstractions
             Id = id;
         }
 
-        public IReadOnlyList<IDomanEvent> GetDomainEvents()
+        public IReadOnlyList<IDomainEvent> GetDomainEvents()
         {
             return _domainEvents.ToList();
         }
@@ -28,7 +28,7 @@ namespace BookingComExample.Domain.Abstractions
             _domainEvents.Clear();
         }
         
-        public void RaiseDomainEvent(IDomanEvent domainEvent)
+        public void RaiseDomainEvent(IDomainEvent domainEvent)
         {
             _domainEvents.Add(domainEvent);
         }

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BookingComExample.Domain.Apartments
+namespace BookingComExample.Domain.Shared
 {
     public record Money(decimal Amount, Currency Currency)
     {
