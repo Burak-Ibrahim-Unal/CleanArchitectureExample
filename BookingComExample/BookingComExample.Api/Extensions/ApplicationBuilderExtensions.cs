@@ -1,4 +1,5 @@
-﻿using BookingComExample.Infrastructure;
+﻿using BookingComExample.Api.Middleware;
+using BookingComExample.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookingComExample.Api.Extensions
@@ -11,6 +12,11 @@ namespace BookingComExample.Api.Extensions
             using var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 
             dbContext.Database.Migrate();
+        }
+
+        public static void UseCustomExceptionHandler(this IApplicationBuilder app)
+        {
+            app.UseMiddleware<ExceptionHandlingMiddleware>();
         }
     }
 }

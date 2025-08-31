@@ -16,7 +16,7 @@ public class Result
             throw new InvalidOperationException();
         }
 
-        isSuccess = isSuccess;
+        IsSuccess = isSuccess;
         Error = error;
     }
 
