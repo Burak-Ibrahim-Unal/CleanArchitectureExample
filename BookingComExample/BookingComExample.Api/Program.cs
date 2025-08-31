@@ -1,3 +1,4 @@
+using BookingComExample.Api.Extensions;
 using BookingComExample.Application;
 using BookingComExample.Infrastructure;
 
@@ -20,6 +21,10 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+
+    app.ApplyMigrations();
+
+    app.SeedData();
 }
 
 app.UseHttpsRedirection();

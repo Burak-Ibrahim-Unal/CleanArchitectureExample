@@ -13,6 +13,11 @@ namespace BookingComExample.Domain.Abstractions
         
         public Guid Id { get; init; }
 
+        protected Entity()
+        {
+            
+        }
+
         protected Entity(Guid id)
         {
             Id = id;

@@ -11,9 +11,9 @@ namespace BookingComExample.Application.Exceptions
     {
         public ValidationException(IEnumerable<ValidationError> validationErrors)
         {
-            ValidationErrors = validationErrors;
+            Errors = validationErrors;
         }
 
-        public IEnumerable<ValidationError> ValidationErrors { get; }
+        public IEnumerable<ValidationError> Errors { get; }
     }
 }

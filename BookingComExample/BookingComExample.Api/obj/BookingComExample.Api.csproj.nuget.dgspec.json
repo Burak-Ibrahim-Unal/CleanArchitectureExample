@@ -58,6 +58,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.22.1, )"
@@ -151,7 +161,7 @@
             },
             "MediatR": {
               "target": "Package",
-              "version": "[13.0.0, )"
+              "version": "[12.5.0, )"
             },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
@@ -319,11 +329,7 @@
           "dependencies": {
             "MediatR": {
               "target": "Package",
-              "version": "[13.0.0, )"
-            },
-            "MediatR.Contracts": {
-              "target": "Package",
-              "version": "[2.0.1, )"
+              "version": "[12.5.0, )"
             }
           },
           "imports": [

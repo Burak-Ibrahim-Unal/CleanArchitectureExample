@@ -7,6 +7,11 @@ namespace BookingComExample.Domain.Bookings;
 
 public sealed class Booking : Entity
 {
+    private Booking()
+    {
+        
+    }
+
     private Booking(
         Guid id,
         Guid apartmentId,
@@ -14,10 +19,20 @@ public sealed class Booking : Entity
         DateRange duration,
         Money priceForPeriod,
         Money cleaningFee,
+        Money amenitiesUpCharge,
         Money totalPrice,
         BookingStatus status,
         DateTime confirmedOnUtc) : base(id)
     {
+        ApartmentId = apartmentId;
+        UserId = userId;
+        Duration = duration;
+        PriceForPeriod = priceForPeriod;
+        CleaningFee = cleaningFee;
+        TotalPrice = totalPrice;
+        Status = status;
+        ConfirmedOnUtc = confirmedOnUtc;
+        AmenitiesUpCharge = amenitiesUpCharge;
     }
 
     public Guid ApartmentId { get; private set; }
@@ -45,6 +60,7 @@ public sealed class Booking : Entity
             duration,
             pricingDetails.PriceForPeriod,
             pricingDetails.CleaningFee,
+            pricingDetails.AmenitiesUpCharge,
             pricingDetails.TotalPrice,
             BookingStatus.Reserved,
             createdOnUtc);

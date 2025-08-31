@@ -1,0 +1,6 @@
+services:
+  bookingcomexample.api:
+    image: ${DOCKER_REGISTRY-}bookingcomexampleapi
+    build:
+      context: .
+      dockerfile: BookingComExample.Api/Dockerfile

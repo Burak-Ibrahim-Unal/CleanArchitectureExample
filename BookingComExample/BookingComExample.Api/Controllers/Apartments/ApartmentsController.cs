@@ -3,7 +3,7 @@ using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BookingComExample.Api.Controllers
+namespace BookingComExample.Api.Controllers.Apartments
 {
     [ApiController]
     [Route("api/apartments")]
