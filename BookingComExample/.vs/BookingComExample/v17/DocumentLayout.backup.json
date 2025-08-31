@@ -166,8 +166,7 @@
               "RelativeToolTip": "BookingComExample.Api\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-30T19:56:29.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:56:29.607Z"
             },
             {
               "$type": "Document",
@@ -179,8 +178,7 @@
               "RelativeToolTip": "BookingComExample.Api\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-30T19:56:18.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:56:18.178Z"
             },
             {
               "$type": "Document",
@@ -192,8 +190,7 @@
               "RelativeToolTip": "BookingComExample.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-30T19:56:15.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:56:15.296Z"
             },
             {
               "$type": "Document",
@@ -203,7 +200,7 @@
               "RelativeDocumentMoniker": "BookingComExample.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\Program.cs",
               "RelativeToolTip": "BookingComExample.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-30T19:55:18.591Z",
               "EditorCaption": ""
@@ -218,8 +215,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Exceptions\\ConcurrencyException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:26:49.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:26:49.224Z"
             },
             {
               "$type": "Document",
@@ -231,8 +227,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Aparments\\SearchApartments\\ApartmentResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:22:49.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:22:49.222Z"
             },
             {
               "$type": "Document",
@@ -244,8 +239,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Abstractions\\IDomanEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:02:11.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:02:11.393Z"
             },
             {
               "$type": "Document",
@@ -257,8 +251,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Reviews\\Events\\ReviewCreatedDomainEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:01:40.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:01:40.067Z"
             },
             {
               "$type": "Document",
@@ -270,8 +263,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\ApartmentConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:56:09.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:56:09.303Z"
             },
             {
               "$type": "Document",
@@ -283,8 +275,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\ApplicationDbContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAA8wC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:08.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:08.438Z"
             },
             {
               "$type": "Document",
@@ -296,8 +287,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Exceptions\\ValidationException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:29:19.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:29:19.684Z"
             },
             {
               "$type": "Document",
@@ -309,8 +299,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:54:57.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:54:57.303Z"
             },
             {
               "$type": "Document",
@@ -322,8 +311,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\BookingConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:56:51.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:56:51.218Z"
             },
             {
               "$type": "Document",
@@ -335,8 +323,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Apartment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T08:46:42.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-04T08:46:42.169Z"
             },
             {
               "$type": "Document",
@@ -348,8 +335,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Exceptions\\ValidationError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:03:29.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:03:29.922Z"
             },
             {
               "$type": "Document",
@@ -361,8 +347,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:08:18.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:08:18.576Z"
             },
             {
               "$type": "Document",
@@ -374,8 +359,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationBehavior.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:17:37.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:17:37.211Z"
             },
             {
               "$type": "Document",
@@ -387,8 +371,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Clock\\DateTimeProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:48.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:48.685Z"
             },
             {
               "$type": "Document",
@@ -400,8 +383,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Clock\\IDatetimeProvider.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:05:32.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:05:32.235Z"
             },
             {
               "$type": "Document",
@@ -413,8 +395,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:18.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:18.224Z"
             },
             {
               "$type": "Document",
@@ -426,8 +407,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Abstractions\\Entity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T09:05:56.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-04T09:05:56.969Z"
             },
             {
               "$type": "Document",
@@ -439,8 +419,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Configurations\\ReviewConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:00:27.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:00:27.264Z"
             },
             {
               "$type": "Document",
@@ -452,8 +431,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Reviews\\Comment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T19:01:01.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T19:01:01.766Z"
             },
             {
               "$type": "Document",
@@ -465,8 +443,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:20.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:20.906Z"
             },
             {
               "$type": "Document",
@@ -478,8 +455,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\BookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:16.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:16.037Z"
             },
             {
               "$type": "Document",
@@ -491,8 +467,7 @@
               "RelativeToolTip": "BookingComExample.Infrastructure\\Repositories\\ApartmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:55:12.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:55:12.518Z"
             },
             {
               "$type": "Document",
@@ -504,8 +479,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Bookings\\IBookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:45:02.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:45:02.12Z"
             },
             {
               "$type": "Document",
@@ -517,8 +491,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAIwBAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:44:43.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:44:43.071Z"
             },
             {
               "$type": "Document",
@@ -530,8 +503,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:42:30.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:42:30.3Z"
             },
             {
               "$type": "Document",
@@ -543,8 +515,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Aparments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIAwwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:39:18.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:39:18.312Z"
             },
             {
               "$type": "Document",
@@ -556,8 +527,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:33:02.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:33:02.742Z"
             },
             {
               "$type": "Document",
@@ -569,8 +539,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Behaviors\\ValidationError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:26:28.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:26:28.881Z"
             },
             {
               "$type": "Document",
@@ -582,8 +551,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Messaging\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:18:36.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:18:36.731Z"
             },
             {
               "$type": "Document",
@@ -595,8 +563,7 @@
               "RelativeToolTip": "BookingComExample.Application\\DependencyInjection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:14:12.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:14:12.898Z"
             },
             {
               "$type": "Document",
@@ -608,8 +575,7 @@
               "RelativeToolTip": "BookingComExample.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T18:09:15.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-30T18:09:15.171Z"
             },
             {
               "$type": "Document",
@@ -621,8 +587,7 @@
               "RelativeToolTip": "src\\BookingComExample.Domain\\Apartments\\Amenity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-04T08:53:04.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-04T08:53:04.425Z"
             },
             {
               "$type": "Bookmark",
