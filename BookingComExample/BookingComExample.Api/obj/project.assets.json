@@ -2999,23 +2999,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Burak\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\BookingComExample.Api.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\BookingComExample.Api.csproj",
       "projectName": "BookingComExample.Api",
-      "projectPath": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\BookingComExample.Api.csproj",
-      "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\BookingComExample.Api.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3031,11 +3031,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\BookingComExample.Application.csproj": {
-              "projectPath": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\BookingComExample.Application.csproj"
+            "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\BookingComExample.Application.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Application\\BookingComExample.Application.csproj"
             },
-            "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Burak\\Desktop\\Github\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj"
+            "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\BurakGithub\\CleanArchitectureExample\\BookingComExample\\BookingComExample.Infrastructure\\BookingComExample.Infrastructure.csproj"
             }
           }
         }

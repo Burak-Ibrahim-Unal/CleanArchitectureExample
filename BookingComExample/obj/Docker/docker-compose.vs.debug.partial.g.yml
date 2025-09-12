@@ -5,30 +5,30 @@ services:
       args:
         LAUNCHING_FROM_VS: true
         BUILD_CONFIGURATION: Debug
-      target: base
       labels:
         com.microsoft.created-by: "visual-studio"
         com.microsoft.visual-studio.project-name: "BookingComExample.Api"
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=1
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
-      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_bookingcomexample.api$
+      - NUGET_FALLBACK_PACKAGES=/.nuget/fallbackpackages
     volumes:
-      - C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample\BookingComExample.Api:/app:rw
-      - C:\Users\Burak\Desktop\Github\CleanArchitectureExample\BookingComExample:/src:rw
-      - C:\Users\Burak\vsdbg\vs2017u5:/remote_debugger:rw
-#$nuget_volume_mapping_bookingcomexample.api$
-      - C:\Users\Burak\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
-      - C:\Users\Burak\AppData\Roaming\ASP.NET\Https:/home/app/.aspnet/https:ro
-      - C:\Users\Burak\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
-      - C:\Users\Burak\AppData\Roaming\Microsoft\UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - C:\Users\user\Desktop\BurakGithub\CleanArchitectureExample\BookingComExample\BookingComExample.Api:/app:rw
+      - C:\Users\user\Desktop\BurakGithub\CleanArchitectureExample\BookingComExample:/src:rw
+      - C:\Users\user\vsdbg\vs2017u5:/remote_debugger:rw
+      - C:\Users\user\.nuget\packages:/.nuget/packages:ro
+      - C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages:/.nuget/fallbackpackages:ro
+      - C:\Users\user\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+      - C:\Users\user\AppData\Roaming\ASP.NET\Https:/home/app/.aspnet/https:ro
+      - C:\Users\user\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+      - C:\Users\user\AppData\Roaming\Microsoft\UserSecrets:/home/app/.microsoft/usersecrets:ro
       - C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\linux-x64\net8.0:/VSTools:ro
       - C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\HotReload:/HotReloadAgent:ro
 
     entrypoint: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --wait"
     labels:
       com.microsoft.visualstudio.debuggee.program: "dotnet"
-      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_bookingcomexample.api$ \"/app/bin/Debug/net8.0/BookingComExample.Api.dll\""
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /.nuget/packages --additionalProbingPath /.nuget/fallbackpackages  \"/app/bin/Debug/net8.0/BookingComExample.Api.dll\""
       com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
       com.microsoft.visualstudio.debuggee.killprogram: "dotnet --roll-forward Major /VSTools/DistrolessHelper/DistrolessHelper.dll --stop dotnet"
     tty: true

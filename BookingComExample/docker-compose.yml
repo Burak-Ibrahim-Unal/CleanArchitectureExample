@@ -1,6 +1,13 @@
 services:
-  bookingcomexample.api:
-    image: ${DOCKER_REGISTRY-}bookingcomexampleapi
-    build:
-      context: .
-      dockerfile: BookingComExample.Api/Dockerfile
+  bookingcomexample-idp:
+    image: jboss/keycloak:latest
+    container_name: BookingComExample.Identity
+    environment:
+      - KEYCLOAK_USER=admin
+      - KEYCLOAK_PASSWORD=admin
+      - KEYCLOAK_IMPORT=/tmp/bookingcomexample-realm-export.json
+    volumes:
+      - ./containers/identity:/opt/jboss/keycloak/standalone/data
+      - ./files/bookingcomexample-realm-export.json:/tmp/bookingcomexample-realm-export.json
+    ports:
+      - 18080:8080

@@ -1,0 +1,57 @@
+# --- Visual Studio / .NET ---
+.vs/
+.vscode/
+.idea/
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Tt]est[Rr]esults/
+[Bb]enchmark[Dd]ot[Nn]et.Artifacts/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.rsuser
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider/Resharper
+*.DotSettings.user
+_ReSharper.Caches/
+
+# Coverage / analysis
+coverage/
+.coverage*
+*.coverage*
+TestResult.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend
+node_modules/
+**/node_modules/
+
+# Docker/Compose generated artifacts (covered by obj/, but keep explicit)
+**/obj/Docker/
+**/obj/**/docker-compose*.yml
+**/obj/**/docker-compose*.g.yml
+**/obj/**/docker-compose*.partial.g.yml
+
+# Project-specific: Keycloak data volume (do not commit container data)
+containers/identity/
+
+# Misc
+*.tmp
+*.temp
+*.log
